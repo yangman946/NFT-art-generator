@@ -1,0 +1,104 @@
+{
+    "cards": [
+        {
+            "faceID": "17.8.5.15.6.13.0",
+            "Name": "drunk Fred",
+            "rarity": "common"
+        },
+        {
+            "faceID": "17.3.4.6.7.4.20",
+            "Name": "tiny Chad",
+            "rarity": "common"
+        },
+        {
+            "faceID": "5.11.18.10.5.13.16",
+            "Name": "crazy Quinten",
+            "rarity": "common"
+        },
+        {
+            "faceID": "17.8.15.1.3.14.6",
+            "Name": "fat Steven",
+            "rarity": "common"
+        },
+        {
+            "faceID": "17.17.5.2.1.2.1",
+            "Name": "stubborn Peter",
+            "rarity": "rare"
+        },
+        {
+            "faceID": "15.9.9.19.9.9.6",
+            "Name": "obese Tim",
+            "rarity": "common"
+        },
+        {
+            "faceID": "19.0.3.20.6.14.15",
+            "Name": "mean Jack",
+            "rarity": "common"
+        },
+        {
+            "faceID": "19.5.14.1.3.14.19",
+            "Name": "filthy Jake",
+            "rarity": "common"
+        },
+        {
+            "faceID": "19.7.2.8.8.9.19",
+            "Name": "muscular Steve",
+            "rarity": "common"
+        },
+        {
+            "faceID": "12.12.1.7.1.1.15",
+            "Name": "hot Gary",
+            "rarity": "uncommon"
+        },
+        {
+            "faceID": "0.2.6.14.3.12.3",
+            "Name": "tiny Tim",
+            "rarity": "rare"
+        },
+        {
+            "faceID": "8.9.20.10.7.11.9",
+            "Name": "jacked Henry",
+            "rarity": "common"
+        },
+        {
+            "faceID": "2.8.3.17.6.6.2",
+            "Name": "funny Peter",
+            "rarity": "rare"
+        },
+        {
+            "faceID": "15.7.4.5.5.4.18",
+            "Name": "skinny Dale",
+            "rarity": "common"
+        },
+        {
+            "faceID": "10.9.17.10.1.6.8",
+            "Name": "boring Tom",
+            "rarity": "common"
+        },
+        {
+            "faceID": "1.5.12.16.1.18.16",
+            "Name": "stupid Ryan",
+            "rarity": "common"
+        },
+        {
+            "faceID": "16.16.20.15.4.11.20",
+            "Name": "poor Frank",
+            "rarity": "legendary"
+        },
+        {
+            "faceID": "3.14.19.8.7.14.16",
+            "Name": "virgin Seamus",
+            "rarity": "uncommon"
+        },
+        {
+            "faceID": "10.14.12.9.5.18.5",
+            "Name": "lawful Gary",
+            "rarity": "common"
+        },
+        {
+            "faceID": "14.9.5.10.5.16.8",
+            "Name": "hot Quinten",
+            "rarity": "common"
+        }
+    ]
+}

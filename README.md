@@ -7,7 +7,7 @@ NOTE: The code file does not handle minting or anything else outside the realm o
 
 ## Cloning
 
-
+`$ git clone https://github.com/yangman946/NFT-art-generator`
 
 ## Contributing
 

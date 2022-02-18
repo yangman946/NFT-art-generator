@@ -1,5 +1,7 @@
 # NFT-art-generator
 
+<img src="https://lh3.googleusercontent.com/R770a_NzMgFrKJlvG248mus0YBvwoY4Y92IspClsQBZdJc7DaysRnifk2NlwH7O79jt4riaq_VbqtAKK-3sJL0zwFMQ1FzML7lVi=w600">
+
 <i>This project is inspired by [Fireships video](https://www.youtube.com/watch?v=meTpMP0J5E8&ab_channel=Fireship)</i>
 
 Check out my NFT collection on [opensea](https://opensea.io/collection/buffman-nft)
